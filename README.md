@@ -1,9 +1,7 @@
 # workshops_2023_side_app
 
 bundle install
-yarn install
 rails db:setup
-
 
 bundle exec rails console
 
